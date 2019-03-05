@@ -26,9 +26,7 @@ import org.mybatis.generator.api.dom.java.TopLevelClass;
 
 import java.util.List;
 import java.util.Properties;
-import java.util.Set;
 
-import static org.mybatis.generator.internal.util.StringUtility.isTrue;
 
 /**
  * field使用table表的注释
